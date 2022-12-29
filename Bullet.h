@@ -1,5 +1,15 @@
 #pragma once
-class Bullet
+class BULLET
 {
+
+private:
+
+public:
+	//s“®ˆ—
+	void Update();
+
+	//•`‰æ
+	void Draw();
+
 };
 
